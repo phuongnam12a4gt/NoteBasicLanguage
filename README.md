@@ -18,3 +18,15 @@
 - 'var :dữ liệu có thể thay đổi.'
 - 'val:dữ liệu biến ko thể thay đổi.
 ## AccessModifier:
+### Java:
+Có 4 loại:
+- private:chỉ được truy cập trong cùng 1 lớp.
+- public:được truy cập ở mọi nơi.
+- default:truy cập trong cùng package.
+- protected:được truy cập trong cùng package vs ngoài package thì lớp con của nó phải kế thừa bởi lớp cha.
+### Kotlin:
+Có 4 loại:
+- private:chỉ được truy cập trong cùng 1 lớp.
+- public:được truy cập ở mọi nơi.
+- internal:chỉ được truy cập trong cùng 1 module.
+- protected:được truy cập trong cùng package vs ngoài package thì lớp con của nó phải kế thừa bởi lớp cha.
