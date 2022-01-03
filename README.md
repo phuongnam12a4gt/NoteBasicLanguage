@@ -44,5 +44,10 @@ Dùng từ khóa new.
 ### Kotlin:
 - Object Expressions
 -  +:Biểu thức object  được thực thi và khởi tạo ngay lập tức.Khi chúng ta sử dụng.
+-  +Chúng ta dùng từ khóa object để tạo 1 đối tượng ẩn danh.
+-  +Chúng ta có thể cho đối tượng ẩn danh kế thừa.
+-  +Chúng ta sử dụng đối tượng ẩn danh như loại trả về.
+-  +Có thể truy cập 1 biến từ đối tượng ẩn danh.
 - Object declare:
 -  +Khai báo object được khởi  tạo lưởi biếng và được truy cập ngay lần đầu tiên khởi tạo.
+-  +companion object:có thể được gọi bằng cách gọi tên lớp với thành phần định danh.
