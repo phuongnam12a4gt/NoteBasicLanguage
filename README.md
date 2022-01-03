@@ -42,3 +42,5 @@ Có 4 loại:
 ### Java:
 Dùng từ khóa new.
 ### Kotlin:
+- Expression Object:
+- Object declare:
