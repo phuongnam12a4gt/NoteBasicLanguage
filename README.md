@@ -51,3 +51,9 @@ Dùng từ khóa new.
 - Object declare:
 -  +Khai báo object được khởi  tạo lưởi biếng và được truy cập ngay lần đầu tiên khởi tạo.
 -  +companion object:có thể được gọi bằng cách gọi tên lớp với thành phần định danh.
+## Constructor:
+### Java:
+- tên trùng với tên lớp.
+### Kotlin:
+-primary constructor:1 chỉ có 1 primary constructor
+-secondary constructor:Có nhiều secondary constructor.
