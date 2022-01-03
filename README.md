@@ -17,7 +17,7 @@
 ### Kotlin:
 - 'var :dữ liệu có thể thay đổi.'
 - 'val:dữ liệu biến ko thể thay đổi.
-###So sánh giữa bộ nhớ stack vs bộ nhớ heap:
+### So sánh giữa bộ nhớ stack vs bộ nhớ heap:
 - Stack:Kích thước là cố định.lưu trử các biến cục bộ.đều 
 được lưu trử trong ram.Dữ liệu tự động lưu trử trong stack
 sẽ tự động hủy khi hoàn thành xong nhiệm vụ.Vấn đề lỗi xãy ra khi tạo nhiều đối tượng biến cục bộ ,củng như đệ quy hàm thì sẽ gây ra vấn đề tràn bộ nhớ.
