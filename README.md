@@ -42,5 +42,7 @@ Có 4 loại:
 ### Java:
 Dùng từ khóa new.
 ### Kotlin:
-- Expression Object:
+- Object Expressions
+-  +:Biểu thức object  được thực thi và khởi tạo ngay lập tức.Khi chúng ta sử dụng.
 - Object declare:
+-  +Khai báo object được khởi  tạo lưởi biếng và được truy cập ngay lần đầu tiên khởi tạo.
