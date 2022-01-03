@@ -69,3 +69,7 @@ Dùng từ khóa new.
 - ko thể ghi đè phương thức final:
 - ko thể thể kế thừa lớp final.
 - biến stack final rỗng là khi khởi tạo để rỗng.chỉ được khởi tạo trong khối static rỗng.
+## Super:
+- Tham chiếu đến đối tượng lớp cha.
+- Goị phương thức constructor của lớp cha.
+- Gọi phương thức của lớp cha.
