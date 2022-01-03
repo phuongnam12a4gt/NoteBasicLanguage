@@ -57,3 +57,15 @@ Dùng từ khóa new.
 ### Kotlin:
 -primary constructor:1 chỉ có 1 primary constructor
 -secondary constructor:Có nhiều secondary constructor.
+## This:
+- được dùng để tham chiếu tới đối tượng hiện tại.
+- được dùng để gọi constructor của lớp hiện tại.
+- được dùng để gọi phương thức của lớp hiện tại.
+- được dùng truyền như 1 tham số trong phương thức.
+- được dùng truyền như 1 tham số trong phương thức constructor.
+- được dùng để trả về đối tượng của lớp hiện tại.
+## final:(java)
+- không thể thay đổi biến final:
+- ko thể ghi đè phương thức final:
+- ko thể thể kế thừa lớp final.
+- biến stack final rỗng là khi khởi tạo để rỗng.
