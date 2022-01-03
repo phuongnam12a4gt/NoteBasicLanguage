@@ -1,6 +1,6 @@
 #Basic Language
 ## Variable:
-###Java:
+### Java:
 'Để khai báo biến trong java thì ta thực hiện như sau:<Kiểu dữ liệu> tên biến.'
 ### Kotlin:
 'Để khai báo biến ta dùng:var /val tên biến:'
