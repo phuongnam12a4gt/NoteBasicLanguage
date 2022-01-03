@@ -68,4 +68,4 @@ Dùng từ khóa new.
 - không thể thay đổi biến final:
 - ko thể ghi đè phương thức final:
 - ko thể thể kế thừa lớp final.
-- biến stack final rỗng là khi khởi tạo để rỗng.
+- biến stack final rỗng là khi khởi tạo để rỗng.chỉ được khởi tạo trong khối static rỗng.
